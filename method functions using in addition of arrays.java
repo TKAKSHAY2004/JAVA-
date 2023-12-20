@@ -31,3 +31,36 @@ public class Main{
         myMethod();
     }
 }
+
+
+
+
+/*output 
+Elements in array A:
+1 2 3 4 5 Elements in array B:
+6 7 8 9 10 
+Sum of array A and B :
+7 9 11 13 15 
+
+
+Elements in array A:
+1 2 3 4 5 
+Elements in array B:
+6 7 8 9 10 
+Sum of array A and B :
+7 9 11 13 15 
+
+
+Elements in array A:
+1 2 3 4 5 
+Elements in array B:
+6 7 8 9 10 
+Sum of array A and B :
+7 9 11 13 15 
+
+Elements in array A:
+1 2 3 4 5 
+Elements in array B:
+6 7 8 9 10 
+Sum of array A and B :
+7 9 11 13 15 */
