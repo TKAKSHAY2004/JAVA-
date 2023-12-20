@@ -17,3 +17,9 @@ class Input {
         input.close();
     }
 }
+
+/*output
+Enter an integer A: 5
+Enter an integer B: 6
+Sum: 11.0 */
+
