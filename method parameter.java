@@ -9,3 +9,9 @@ public class Main {
     myMethod("Anja");
   }
 }
+
+//output
+
+//Liam Sam
+//Jenny Sam
+//Anja Sam
