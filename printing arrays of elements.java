@@ -6,3 +6,7 @@ public class Main {
     }
   }
 }
+
+
+/*output
+  Volvo  BMW  Ford  Mazda */
