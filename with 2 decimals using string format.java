@@ -11,3 +11,9 @@ public class Class211042010057{
 		
 	}
 }
+
+/*
+521
+The Tax is 93.78
+The Tip is 26.05
+Total Bill with Tax and Tip is 640.83 */
