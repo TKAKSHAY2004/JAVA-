@@ -17,6 +17,9 @@ class input {
         
         char c = sc.next().charAt(0);
         System.out.println(c);
+
+        boolean d = sc.nextBoolean();
+        System.out.println(d);
         
         
     }
